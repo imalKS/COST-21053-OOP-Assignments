@@ -1,7 +1,7 @@
 # OOP Assignment — Task Tracker
 
 ## Description
-JAVA OOP CONCEPT Lab Sheet uploadings
+JAVA OOP CONCEPT Lab Sheet Uploadings
 
 ## Student Details
 - Name: Your Name
