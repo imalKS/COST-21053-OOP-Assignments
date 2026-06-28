@@ -1,7 +1,7 @@
 # OOP Assignment — Task Tracker
 
 ## Description
-A Java application for managing tasks using OOP principles.
+JAVA OOP CONCEPT Lab Sheet uploadings
 
 ## Student Details
 - Name: Your Name
